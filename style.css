@@ -298,5 +298,14 @@ footer {
   .nav-links .nav4 {
     display: none;
   }
+
+    .hero-text button {
+    margin-bottom: 2rem;
+  }
+
+  footer {
+    padding: 4rem 0;
+  }
 }
+
 
