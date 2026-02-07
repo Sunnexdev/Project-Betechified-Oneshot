@@ -277,7 +277,7 @@ footer {
   footer {
     padding: 4rem 0;
     color: #fff;
-    padding-inline: 5rem 0;
+    padding-inline: 4rem 0;
   }
   .link {
     font-size: 2rem;
@@ -288,6 +288,7 @@ footer {
 
   .hero-text button {
     margin-top: 5rem;
+    margin-bottom: 2rem;
   }
 }
 
@@ -298,3 +299,4 @@ footer {
     display: none;
   }
 }
+
